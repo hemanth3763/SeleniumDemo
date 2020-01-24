@@ -1,0 +1,8 @@
+2020-01-03 10:08:37,690  INFO [main] Log4jDemo:15 - succesful
+2020-01-03 10:09:43,936  INFO [main] Log4jDemo:15 - succesful
+2020-01-03 10:13:53,181  INFO [main] Log4jDemo:15 - successful
+2020-01-03 10:13:53,193  WARN [main] Log4jDemo:18 - checktitle
+2020-01-03 10:14:18,429  INFO [main] Log4jDemo:15 - successfull
+2020-01-03 10:14:18,442  WARN [main] Log4jDemo:18 - checktitle
+2020-01-21 16:09:36,015  INFO [main] Log4jDemo:15 - successfull
+2020-01-21 16:09:36,087  WARN [main] Log4jDemo:18 - checktitle
